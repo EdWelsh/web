@@ -30,7 +30,7 @@ index.html:
     <script src="//cdn.8thwall.com/web/xrextras/xrextras.js"></script>
 
     <!-- 8thWall Web - Replace the app key here with your own app key -->
-    <script async src="//apps.8thwall.com/xrweb?appKey=XXXXXXXX"></script>
+    <script async src="//apps.8thwall.com/xrweb?appKey=k8QwafRYleJmiVWzqma2Yf1A6R41danceAnyl3VGskMI9T9YOGQ4oRPnvwVN6UmieWrhy6"></script>
 
     <script src="index.js"></script>
   </head>
@@ -78,7 +78,7 @@ index.html:
     <script src="//cdn.8thwall.com/web/xrextras/xrextras.js"></script>
 
     <!-- 8thWall Web - Replace the app key here with your own app key -->
-    <script async src="//apps.8thwall.com/xrweb?appKey=XXXXXXXX"></script>
+    <script async src="//apps.8thwall.com/xrweb?appKey=k8QwafRYleJmiVWzqma2Yf1A6R41danceAnyl3VGskMI9T9YOGQ4oRPnvwVN6UmieWrhy6"></script>
   </head>
 
   <body>
